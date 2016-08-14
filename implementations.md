@@ -220,7 +220,12 @@ None found
 C++
 ===
 
-None found
+JSON for Modern C++
+-------------------
+
+Has a JSON Patch implementation as part of it's JSON library.
+
+github: https://github.com/nlohmann/json
 
 Haskell
 =======
